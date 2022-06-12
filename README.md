@@ -1,0 +1,1 @@
+# NxN-Symmetric-Square-Matrix
